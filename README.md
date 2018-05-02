@@ -4,12 +4,12 @@
 
 ## Banner Dark
 
-![release](img/react-rasta-banner-dark.svg)
+![banner dark](img/react-rasta-banner-dark.svg)
 
 ## Banner Light
 
-![release](img/react-rasta-banner-light.svg)
+![banner light](img/react-rasta-banner-light.svg)
 
 ## Signet
 
-![release](img/react-rasta-signet.svg)
+![signet](img/react-rasta-signet.svg)
